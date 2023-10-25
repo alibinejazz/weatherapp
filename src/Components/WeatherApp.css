@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
+  }
+  
+  .center-container {
+    background-image: url(https://t4.ftcdn.net/jpg/04/61/23/23/360_F_461232389_XCYvca9n9P437nm3FrCsEIapG4SrhufP.jpg);
+    width:350px;
+    height: 400px; 
+    padding: 20px;  
+    border-radius: 20px;
+    font-weight: 900;
+
+}
