@@ -6,11 +6,12 @@
   }
   
   .center-container {
-    background-image: url(https://t4.ftcdn.net/jpg/04/61/23/23/360_F_461232389_XCYvca9n9P437nm3FrCsEIapG4SrhufP.jpg);
-    width:350px;
-    height: 400px; 
-    padding: 20px;  
+    background-image: url(https://img.freepik.com/free-photo/white-clouds-blue-background_23-2148964575.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:400px;
+    height: 600px;   
     border-radius: 20px;
     font-weight: 900;
-
+    box-shadow: 9px 5px 15px rgba(16, 8, 28, 20);
 }
